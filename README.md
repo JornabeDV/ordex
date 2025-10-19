@@ -12,18 +12,10 @@ A modern, full-stack order management system built with Next.js 15, React 19, an
 **Tutorial completo y demostración de la aplicación (5 minutos)**
 
 ### 📱 Demo de la Aplicación
-[📹 Ver Demo de la App en Google Drive](https://drive.google.com/file/d/YOUR_APP_VIDEO_ID/view)
+[📹 Ver Demo de la App en Google Drive](https://drive.google.com/file/d/1WPsV4Q8e2tb6WjcjBDSAsU4xPCjLLHdi/view?usp=sharing)
 
 ### 💻 Demo del Código
-[📹 Ver Demo del Código en Google Drive](https://drive.google.com/file/d/YOUR_CODE_VIDEO_ID/view)
-
-*Reemplaza los IDs con los de tus archivos en Google Drive*
-
-**Pasos para compartir:**
-1. Sube tus videos a Google Drive
-2. Haz clic derecho → "Obtener enlace"
-3. Selecciona "Cualquier persona con el enlace"
-4. Copia el ID del archivo y reemplázalo arriba
+[📹 Ver Demo del Código en Google Drive](https://drive.google.com/file/d/1_X7Ap8WY6vE1743NLllA81DQBQrbEVvT/view?usp=sharing)
 
 ## ✨ Features
 
