@@ -7,6 +7,16 @@ A modern, full-stack order management system built with Next.js 15, React 19, an
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1-38B2AC)
 
+## 🎥 Demo Videos
+
+**Tutorial completo y demostración de la aplicación (5 minutos)**
+
+### 📱 Demo de la Aplicación
+[📹 Ver Demo de la App en Google Drive](https://drive.google.com/file/d/1WPsV4Q8e2tb6WjcjBDSAsU4xPCjLLHdi/view?usp=sharing)
+
+### 💻 Demo del Código
+[📹 Ver Demo del Código en Google Drive](https://drive.google.com/file/d/1_X7Ap8WY6vE1743NLllA81DQBQrbEVvT/view?usp=sharing)
+
 ## ✨ Features
 
 - 🎯 **Complete CRUD Operations** - Create, read, update, and delete orders
@@ -23,30 +33,24 @@ A modern, full-stack order management system built with Next.js 15, React 19, an
 
 ### Prerequisites
 
-- Node.js 18+ 
-- pnpm (recommended) or npm
-- Docker (optional)
+- Docker and Docker Compose
+- Git
 
 ### Installation
 
-1. **Clone the repository**
+1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/JornabeDV/ordex.git
    cd ordex
    ```
 
-2. **Install dependencies**
+2. **Start the application:**
    ```bash
-   pnpm install
+   docker-compose up
    ```
 
-3. **Start the development server**
-   ```bash
-   pnpm dev
-   ```
-
-4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
+3. **Open your browser:**
+   Navigate to `http://localhost:3000`
 
 ## 🏗️ Project Structure
 
@@ -358,16 +362,6 @@ For this type of application, managed platforms offer:
    ```
 5. **Open a Pull Request**
 
-### Development Guidelines
-
-- Follow TypeScript best practices
-- Write tests for new features (components and API endpoints)
-- Use conventional commit messages
-- Ensure all tests pass before submitting PR
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -377,14 +371,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Radix UI](https://www.radix-ui.com/) - Accessible components
 - [SWR](https://swr.vercel.app/) - Data fetching
 - [Jest](https://jestjs.io/) - Testing framework
-
-## 📞 Support
-
-If you have any questions or need help, please:
-- Open an issue on GitHub
-- Check the documentation
-- Review the test files for examples
-
----
-
-**Happy coding! 🚀**
